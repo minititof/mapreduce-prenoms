@@ -1,7 +1,7 @@
 # TP2 MapReduce Prénoms
 
 ## AUTHORS
-As mentioned in the README.md file, authors are Christophe Bartier and Théo Grandin
+As mentioned in the AUTHORS file, authors are Christophe Bartier and Théo Grandin
 
 ## GOAL
 Studying a list of names with origins in a .csv file 
