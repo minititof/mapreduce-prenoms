@@ -1,4 +1,4 @@
-# TP2 MapReduce Prénoms
+# TP2 MapReduce Prénoms + Hive
 
 ## AUTHORS
 As mentioned in the AUTHORS file, authors are Christophe Bartier and Théo Grandin
@@ -17,3 +17,5 @@ Studying a list of names with origins in a .csv file
 - Proportion of male and female names
 
 ###pom.xml, necessary to compile with Maven 
+
+###SQL Queries for Hive with explanations
