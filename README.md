@@ -1,4 +1,4 @@
-# mapreduce-prenoms
+# Christophe Bartier - TP2 MapReduce Prénoms
 
 TP2 of Hadoop class
 
