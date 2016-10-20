@@ -1,7 +1,19 @@
-# Christophe Bartier - TP2 MapReduce Prénoms
+# TP2 MapReduce Prénoms
 
-TP2 of Hadoop class
+## AUTHORS
+As mentioned in the README.md file, authors are Christophe Bartier and Théo Grandin
 
-3 java codes 
+## GOAL
+Studying a list of names with origins in a .csv file 
 
-1 pom file for Maven
+## CONTENT
+1. 3 java codes, one for each of those classes:
+- Counting number of first names by origin
+  ex: Korea 7
+
+- Couting number of first names by number of origins
+  ex: 2 257 (= 257 names have 2 origins)
+  
+- Proportion of male and female names
+
+2. pom.xml, necessary to compile with Maven 
