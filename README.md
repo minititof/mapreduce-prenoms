@@ -7,7 +7,7 @@ As mentioned in the README.md file, authors are Christophe Bartier and Théo Gra
 Studying a list of names with origins in a .csv file 
 
 ## CONTENT
-1. 3 java codes, one for each of those classes:
+###3 java codes, one for each of those classes:
 - Counting number of first names by origin
   ex: Korea 7
 
@@ -16,4 +16,4 @@ Studying a list of names with origins in a .csv file
   
 - Proportion of male and female names
 
-2. pom.xml, necessary to compile with Maven 
+###pom.xml, necessary to compile with Maven 
