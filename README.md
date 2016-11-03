@@ -1,4 +1,4 @@
-# TP2 MapReduce Prénoms + Hive
+# TP2-3 MapReduce Prénoms + Hive
 
 ## AUTHORS
 As mentioned in the AUTHORS file, authors are Christophe Bartier and Théo Grandin
